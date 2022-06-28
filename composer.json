@@ -1,5 +1,5 @@
 {
-    "name": "litesaml/lightsaml",
+    "name": "bookify2022/lightsaml",
     "license": "MIT",
     "type": "library",
     "description": "SAML 2.0 PHP library",
